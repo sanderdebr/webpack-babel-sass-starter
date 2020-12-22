@@ -1,6 +1,4 @@
-# webpack-babel-sass-starter
-
-Starter vanilla JS template.
+# Starter vanilla JS template.
 
 - babel
 - eslint (airbnb)
